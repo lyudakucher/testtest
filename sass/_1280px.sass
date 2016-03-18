@@ -1,0 +1,36 @@
+$1200: 1200px;
+
+@mixin respond-to($media) {
+	@if $media == handhelds {
+		@media only screen and (max-width: $1200) { @content; }
+	.section
+		padding: 90px 0
+
+	.container
+		max-width: 585px
+
+	.home__logo
+		font-size: 20px
+		line-height: 14px
+
+	.home__menu
+		padding: 30px 0
+
+	.home__menu__item
+		line-height: 25px
+		margin-right: 21px
+		font-size: 12px
+
+	.home__menu__search--box
+		width: 151px
+		height: 24px
+
+	.home__menu__search--placeholder
+	    height: 24px
+	    width: 127px
+
+	.home__menu__search--fa-btn
+		width: 24px
+		height: 24px
+		line-height: 21px
+	}

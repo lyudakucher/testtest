@@ -1,0 +1,28 @@
+fa fa-facebook
+http://www.w3schools.com/icons/tryit.asp?filename=tryicons_fa-facebook
+
+fa fa-google-plus
+http://www.w3schools.com/icons/tryit.asp?filename=tryicons_fa-google-plus
+
+fa fa-linkedin
+http://www.w3schools.com/icons/tryit.asp?filename=tryicons_fa-linkedin
+
+fa fa-twitter
+http://www.w3schools.com/icons/tryit.asp?filename=tryicons_fa-twitter
+
+fa fa-pinterest-p
+http://www.w3schools.com/icons/tryit.asp?filename=tryicons_fa-pinterest-p
+
+fa fa-youtube
+http://www.w3schools.com/icons/tryit.asp?filename=tryicons_fa-youtube
+
+<a href="#home" class="home__menu__item">Home</a>
+
+<a href="#about" class="home__menu__item">About</a>
+<a href="#expertise" class="home__menu__item">Expertise</a>
+
+<a href="#skills" class="home__menu__item">Skills</a>
+<a href="#gallery" class="home__menu__item">Gallery</a>
+<a href="#story" class="home__menu__item">Story</a>
+<a href="#client" class="home__menu__item">Client</a>
+<a href="#contact" class="home__menu__item">Contact</a>
